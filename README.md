@@ -14,7 +14,7 @@ You will need VS code.
 
 ## Usage
 
-The Pig Game is just a dice game you can play with your friend to see who can reach the score of 100 first!
+The Pig Game is just a dice game you can play with your friend to see who can reach the score of 100 first! The Pig Game is an online game implemented as an express app. This game focuses on the manipulation of the DOM using JavaScript. The HTML and CSS of the page were created by Jonas Schmedtmann for his Udemy course - The Complete JavaScript Course 2020. The underlying JavaScript performing the logic of the game, and the HTML and CSS of the landing page were implemented by me.
 
 ### Installing/Technology Used
 
@@ -27,6 +27,10 @@ The following platforms were required to build this website:
 ## Built With
 
 - [Node.js](https://nodejs.dev/learn/the-package-json-guide)
+
+## Play the game here on Jonas's deployed link
+
+- [See Live Site](https://pig-game-v2.netlify.app)
 
 ## Authors
 
